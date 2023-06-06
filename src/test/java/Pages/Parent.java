@@ -76,7 +76,7 @@ public class Parent {
 
         String returnData = "";
 
-        String path = "/Users/ozgegul/Desktop/ApachePOI_Excel/login info.xlsx";
+        String path = "src/test/resources/loginData.xlsx";
 
         Sheet sheet = null;
 
