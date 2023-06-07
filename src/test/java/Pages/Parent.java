@@ -76,7 +76,7 @@ public class Parent {
 
         String returnData = "";
 
-        String path = "src/test/resources/loginData.xlsx";
+        String path = ".idea/loginData.xlsx";
 
         Sheet sheet = null;
 
